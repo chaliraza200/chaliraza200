@@ -1,4 +1,4 @@
-Hey there! 👋 I'm Chali Raza
+Hey there! 👋 I'm Ch Ali Raza
 
 Flutter Developer | Dart | Firebase
 
@@ -47,14 +47,6 @@ A Flutter-based note-taking application with Firebase integration.
 A Flutter e-commerce application.
 
 [View Repository](https://github.com/chaliraza200/Ecommerce-App)
-
----
-
-📊 GitHub Overview
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chaliraza200&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chaliraza200&layout=compact&theme=tokyonight)
 
 ---
 
